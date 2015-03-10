@@ -1,0 +1,10 @@
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\TestProject\bin\Debug\TestProject.exe
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\TestProject\bin\Debug\TestProject.pdb
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\TestProject\bin\Debug\EasyGroupBar.dll
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\TestProject\bin\Debug\EasyGroupBar.pdb
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\TestProject\obj\x86\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\TestProject\obj\x86\Debug\TestProject.Form1.resources
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\TestProject\obj\x86\Debug\TestProject.Properties.Resources.resources
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\TestProject\obj\x86\Debug\TestProject.csproj.GenerateResource.Cache
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\TestProject\obj\x86\Debug\TestProject.exe
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\TestProject\obj\x86\Debug\TestProject.pdb

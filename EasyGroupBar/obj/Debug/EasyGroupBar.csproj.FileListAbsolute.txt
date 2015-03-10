@@ -1,0 +1,4 @@
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\EasyGroupBar\bin\Debug\EasyGroupBar.dll
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\EasyGroupBar\bin\Debug\EasyGroupBar.pdb
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\EasyGroupBar\obj\Debug\EasyGroupBar.dll
+D:\workfolder\C#\CSharp\控件\EasyGroupBar\EasyGroupBar\obj\Debug\EasyGroupBar.pdb
